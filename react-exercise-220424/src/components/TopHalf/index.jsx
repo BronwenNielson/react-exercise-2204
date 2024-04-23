@@ -4,7 +4,7 @@ import './styles.css'
 
 const TopHalf = () => {
     return (
-        <div className='top-box'>
+        <div className='flex w-11/12 justify-center'>
             <Heading />
             <Starsbox />
         </div>
